@@ -1,6 +1,3 @@
-# kemhost
-HTML Template
-
-Perfect for Hosting & Domain Company
-
-Made with Love by BEK Service GmbH ( www.bekservice.de )
+<p># kemhost<br />HTML Template</p>
+<p>Perfect for Hosting &amp; Domain Company</p>
+<p>Made with Love by <a href="https://bekservice.de">BEK Service GmbH - IT &amp; Marketing Solutions</a></p>
